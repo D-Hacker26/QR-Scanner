@@ -8,6 +8,7 @@ This is the splash screen of the app.
 
 ## Demo
 A link of demo 
+* https://drive.google.com/file/d/16BEg9oXVZRdyqiKe69u0MLiU0dII9e9t/view
 
 ## Tech Stacks
 
