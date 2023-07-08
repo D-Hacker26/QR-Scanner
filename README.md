@@ -1,10 +1,28 @@
 # QR-Scanner-App
 This is a basic QR Scanner App which Scan UPI ID,other QR which have the personal information like in Aadhar card.It consist of three fragments.
-
-There is an splash screen of the app.
+## Splash Screen
+This is the splash screen of the app.
 <p align="center">
 <img src="./assets/splash.jpeg" width="250" height="450">
 </p>
+
+## Tech Stacks
+
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+\
+[Firebase Authentication](https://firebase.google.com/docs/auth/android/start)
+
+I have  used the firebase for authentication in the apps .Users and admins can register for this app by email and set password for their accounts. Users and admin accounts have also
+the feature of email verification .
+
+[Firebase realtime database](https://firebase.google.com/docs/database)
+\
+[Firebase storage](https://firebase.google.com/docs/storage)
+
+I have used realtime database and storage  of firebase for the store the books ,pdfs , magazines and control the views and downloads of the books ,pdfs .
 </br>
 At first, User have 
 to allow the permission for camera in their mobile. 
